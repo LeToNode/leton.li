@@ -8,7 +8,7 @@
 - ~~七周七语言：理解多种编程范型~~ 
 - iPhone 4与iPad开发基础教程
 - ~~快学Scala~~ - zhy
-- Effective Java中文版
+- ~~Effective Java中文版~~
 - Rails学习手册
 - Python 3程序开发指南（第2版）
 - PHP & MySQL Web开发
